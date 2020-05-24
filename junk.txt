@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+<div class="header" id="home1">
+                    Welcome!
+                </div>
+                <div class="info">
+                    <div class="myname">Shreyaskar Srivastava</div>
+                    <div class="mymail">shreyaskar.srivastava@outlook.com</div>
+                    </div>
+                    <hr>
+
+.wrapper .sidebar .current{
+    color: #ffffff;
+}
+=======
+<div class="header" id="home1">
+                    Welcome!
+                </div>
+                <div class="info">
+                    <div class="myname">Shreyaskar Srivastava</div>
+                    <div class="mymail">shreyaskar.srivastava@outlook.com</div>
+                    </div>
+                    <hr>
+
+.wrapper .sidebar .current{
+    color: #ffffff;
+}
+>>>>>>> 5b83546738cda0607a75d8df2604d56946d0699f
+                    
