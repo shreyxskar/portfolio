@@ -163,3 +163,9 @@ hr{
     background-color: #5f37a8;
     color: #ffffff;
 }
+
+.theme-coloured-text{
+    display: inline-flex;    
+    color: #6f42c1;
+    font-weight: bolder;
+}
